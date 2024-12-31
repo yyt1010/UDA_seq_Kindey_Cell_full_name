@@ -1,5 +1,5 @@
 # Kidney Cell full names of UDA_seq paper
-##Download 'Kidney Cell Type Full Names.xlsx'
+## Download 'Kidney Cell Type Full Names.xlsx'
 Abbreviation，	Full_name  
 aFIB，	Adaptive / Maladaptive / Repairing  Fibroblast  
 aPT，	Adaptive / Maladaptive / Repairing Proximal Tubule Epithelial Cell  
